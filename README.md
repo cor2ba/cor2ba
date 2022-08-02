@@ -3,7 +3,7 @@
 
 <h3 align="left">Hola soy Córdoba Gabriel, tengo 18 años y vivó en Argentina, Buenos Aires. Graduado de Full-Stack developer web en Soy Henry Bootcamp. Soy una persona autodidacta, considero que el tiempo es lo mas valioso y no me gusta perderlo, lo que me hace muy proactivo, me gusta trabajar en grupo y formar un buen ambiente laboral junto a colegas. Actualmente estoy buscando empleo, me gustaria conseguir un empleo en el cual pueda seguir expandiendo mis conocimientos sobre programación y pueda trabajar desde mi casa.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame en:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-c%C3%B3rdoba-270369236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gabriel-c%C3%B3rdoba-270369236/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="LinkedIn" height="30" width="40" /></a>
