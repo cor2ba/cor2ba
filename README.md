@@ -1,7 +1,7 @@
 <h1 align="left">Hola 👋, soy Córdoba Gabriel</h1>
 <h3 align="left">Full-Stack Developer</h3>
 
-<h3 align="left">Hola soy Córdoba Gabriel, tengo 18 años y vivó en Argentina, Buenos Aires. Graduado de Full-Stack developer web en Soy Henry Bootcamp. Soy una persona autodidacta, considero que el tiempo es lo mas valioso y no me gusta perderlo, lo que me hace muy proactivo, me gusta trabajar en grupo y formar un buen ambiente laboral junto a colegas. Actualmente estoy buscando empleo, me gustaria conseguir un empleo en el cual pueda seguir expandiendo mis conocimientos sobre programación y pueda trabajar desde mi casa.</h3>
+<h3 align="left">Hi i´m Córdoba Gabriel, I´m 18 years old and I live in Argentina, Buenos Aires. I graduated of Full-Stack developer web in Henry Bootcamp.I´m autodidact, I think the most valuable thing is time and I don't like to waste it, what makes me proactive, I like team work y and create a good work environment with colleagues. I am currently looking for a job, I would like a job where I can expand my programming knowledge and work from home.</h3>
 
 <br>
 
