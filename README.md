@@ -1,7 +1,11 @@
 <h1 align="left">Hola 👋, soy Córdoba Gabriel</h1>
 <h3 align="left">Full-Stack Developer</h3>
 
+<br>
+
 <h3 align="left">Hola soy Córdoba Gabriel, tengo 18 años y vivó en Argentina, Buenos Aires. Graduado de Full-Stack developer web en Soy Henry Bootcamp. Soy una persona autodidacta, considero que el tiempo es lo mas valioso y no me gusta perderlo, lo que me hace muy proactivo, me gusta trabajar en grupo y formar un buen ambiente laboral junto a colegas. Actualmente estoy buscando empleo, me gustaria conseguir un empleo en el cual pueda seguir expandiendo mis conocimientos sobre programación y pueda trabajar desde mi casa.</h3>
+
+<br>
 
 ```javascript
 const aboutMe = {
@@ -21,16 +25,28 @@ const aboutMe = {
 };
 ```
 
+<br>
+
+- 🌱 I’m currently learning **React Native**
+
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, React Native, Sequelize**
+
+<br>
+
 <h3 align="left">Si deseas revisar mi CV:</h3>
 <a href="https://drive.google.com/file/d/1zjlH5Nc99a7iUMr0DrDSkJphDEr8bRL0/view?usp=sharing" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
 
-<h3 align="left">Contactame en:</h3>
+<br>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-c%C3%B3rdoba-270369236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/gabriel-c%C3%B3rdoba-270369236/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" alt="LinkedIn" height="50" width="40" /></a>
 </p>
 
-<h3 align="left">Lenguajes y tecnologías:</h3>
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
@@ -45,6 +61,8 @@ const aboutMe = {
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
+<br>
+   
 <h4 align="center">Visitor's :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cor2ba}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
