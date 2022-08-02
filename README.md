@@ -5,6 +5,24 @@
 
 <img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" alt="hello world"/>
 
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css: ["Bootstrap", "Material UI"]
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["sequelize", "PostgreSQL"],
+   },
+   currentOccupation: ["Teaching Assistant", "Henry Student"],
+};
+```
+
 <h3 align="left">Si deseas revisar mi CV:</h3>
 <a href="https://drive.google.com/file/d/1zjlH5Nc99a7iUMr0DrDSkJphDEr8bRL0/view?usp=sharing" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
 
