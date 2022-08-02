@@ -31,9 +31,10 @@ const aboutMe = {
 
 <br>
 
-<h3 align="left">Si deseas revisar mi CV:</h3>
+<h3 align="left">look at my CV:</h3>
 <a href="https://drive.google.com/file/d/1zjlH5Nc99a7iUMr0DrDSkJphDEr8bRL0/view?usp=sharing" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
 
+<br>
 <br>
 
 <h3 align="left">Connect with me:</h3>
