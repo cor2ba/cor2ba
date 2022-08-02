@@ -4,7 +4,7 @@
 <h3 align="left">Hola soy Córdoba Gabriel, tengo 18 años y vivó en Argentina, Buenos Aires. Graduado de Full-Stack developer web en Soy Henry Bootcamp. Soy una persona autodidacta, considero que el tiempo es lo mas valioso y no me gusta perderlo, lo que me hace muy proactivo, me gusta trabajar en grupo y formar un buen ambiente laboral junto a colegas. Actualmente estoy buscando empleo, me gustaria conseguir un empleo en el cual pueda seguir expandiendo mis conocimientos sobre programación y pueda trabajar desde mi casa.</h3>
 
 <h3 align="left">Si deseas revisar mi CV:</h3>
-<a href="https://drive.google.com/file/d/1zjlH5Nc99a7iUMr0DrDSkJphDEr8bRL0/view?usp=sharing"/>Drive</a>
+<a href="https://drive.google.com/file/d/1zjlH5Nc99a7iUMr0DrDSkJphDEr8bRL0/view?usp=sharing" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/800px-Google_Drive_logo.png)" alt="Drive" height="30" width="40" /></a>
 
 <h3 align="left">Contactame en:</h3>
 <p align="left">
