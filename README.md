@@ -3,8 +3,6 @@
 
 <h3 align="left">Hola soy Córdoba Gabriel, tengo 18 años y vivó en Argentina, Buenos Aires. Graduado de Full-Stack developer web en Soy Henry Bootcamp. Soy una persona autodidacta, considero que el tiempo es lo mas valioso y no me gusta perderlo, lo que me hace muy proactivo, me gusta trabajar en grupo y formar un buen ambiente laboral junto a colegas. Actualmente estoy buscando empleo, me gustaria conseguir un empleo en el cual pueda seguir expandiendo mis conocimientos sobre programación y pueda trabajar desde mi casa.</h3>
 
-<img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" alt="hello world"/>
-
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
