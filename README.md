@@ -9,7 +9,7 @@
 <h3 align="left">Contactame en:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-c%C3%B3rdoba-270369236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/gabriel-c%C3%B3rdoba-270369236/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-c%C3%B3rdoba-270369236/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" alt="LinkedIn" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Lenguajes y tecnologías:</h3>
