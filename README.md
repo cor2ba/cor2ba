@@ -35,3 +35,4 @@ const aboutMe = {
 
 ![Profile views](https://gpvc.arturio.dev/cor2ba)  
 
+<p align="center"><img src="https://profile-counter.glitch.me/{cor2ba}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
