@@ -11,8 +11,8 @@ const aboutMe = {
    code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI"]
+         js: ["React", "React Native", "Redux"],
+         css: ["Bootstrap", "Material UI", "React Native Paper, "React Native Element", "Native Base"]
       },
       backEnd: {
          js: ["Node", "Express"]
