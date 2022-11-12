@@ -31,6 +31,10 @@ const aboutMe = {
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-leoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 <h3 align="left">Look at my CV:</h3>
 <a href="https://docs.google.com/document/d/1Db06ihjQTtjG_IH-fSBIRdyYg60ubOcU4OTLCQLYPpw/edit?usp=sharing" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
 
@@ -62,5 +66,3 @@ const aboutMe = {
 <h4 align="center">Visitor's :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cor2ba}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-leoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
