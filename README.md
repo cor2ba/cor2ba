@@ -8,7 +8,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
+   code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "React Native", "Redux"],
@@ -17,15 +17,15 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["sequelize", "PostgreSQL"],
+      databases: ["Sequelize", "PostgreSQL", "MongoDB", "Moongose"],
    },
-   currentOccupation: ["Teaching Assistant", "Henry Student"],
+   currentOccupation: ["Teaching Assistant", "Henry Student", "Front End Developer"],
 };
 ```
 
 <br>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, React Native, Sequelize**
 
