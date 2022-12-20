@@ -36,7 +36,7 @@ const aboutMe = {
 <br>
 
 <h3 align="left">Look at my CV:</h3>
-<a href="https://docs.google.com/document/d/1Db06ihjQTtjG_IH-fSBIRdyYg60ubOcU4OTLCQLYPpw/edit?usp=sharing" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
+<a href="https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
