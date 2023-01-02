@@ -30,11 +30,18 @@ const aboutMe = {
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, React Native, Sequelize**
 
-<br>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cor2ba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Github Stats:**
 
-<br>
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=cor2ba&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cor2ba&count_private=true&theme=dracula">
+
+</p>
+
+---
 
 <h3 align="left">Look at my CV:</h3>
 <a href="https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
