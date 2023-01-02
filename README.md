@@ -43,6 +43,12 @@ const aboutMe = {
 
 ---
 
+<p align="center">
+  <i>¡Conectémonos y charlemos! Encuéntrame en la web...</i>
+  
+   [![Linkedin Badge](https://img.shields.io/badge/-Jose_Garcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-cordoba/)](https://www.linkedin.com/in/gabriel-cordoba/) 
+   [![Gmail Badge](https://img.shields.io/badge/-jose23122009-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cordobagabrielignacio@gmail.com)](mailto:cordobagabrielignacio@gmail.com)
+
 <h3 align="left">Look at my CV:</h3>
 <a href="https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
 
