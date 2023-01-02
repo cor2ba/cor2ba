@@ -32,7 +32,7 @@ const aboutMe = {
 
 **Github Stats:**
 
-<p align="left">
+<p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cor2ba&count_private=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api?username=cor2ba&hide=stars&show_icons=true&theme=dracula&line_height=32">
@@ -40,12 +40,6 @@ const aboutMe = {
 </p>
 
 ---
-
-<p aling="center">
-  <i>¡Conectémonos y charlemos! Encuéntrame en la web...</i>
-  
-   [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Córdoba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-cordoba/)](https://www.linkedin.com/in/gabriel-cordoba/) 
-   [![Gmail Badge](https://img.shields.io/badge/-Gabriel_Córdoba-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cordobagabrielignacio@gmail.com)](mailto:cordobagabrielignacio@gmail.com)
 
 <h3 align="left">Look at my CV:</h3>
 <a href="https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
