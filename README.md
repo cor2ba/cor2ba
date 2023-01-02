@@ -24,8 +24,6 @@ const aboutMe = {
 };
 ```
 
-<br>
-
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, React Native, Sequelize**
@@ -58,8 +56,6 @@ const aboutMe = {
 <a href="mailto:cordobagabrielignacio@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" alt="Email" height="40" width="40" /></a>
 <a href="https://api.whatsapp.com/send/?phone=5491125837761&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/729/PNG/512/whatsapp_icon-icons.com_62756.png" alt="WhatsApp" height="40" width="40" /></a>
 </p>
-
-<br>
    
 <h4 align="center">Visitor's :eyes:</h4>
 
