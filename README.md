@@ -30,7 +30,7 @@ const aboutMe = {
 
 ---
 
-**Github Stats:**
+*Github Stats:*
 
 <p align="center">
   
@@ -41,11 +41,11 @@ const aboutMe = {
 
 ---
 
-**Look at my CV:**
+*Look at my CV:*
 <br>
 <a href="https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
 
-**Connect with me:**
+*Connect with me:*
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-cordoba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="mailto:cordobagabrielignacio@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" alt="Email" height="40" width="40" /></a>
