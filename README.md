@@ -41,7 +41,7 @@ const aboutMe = {
 
 ---
 
-<p display="flex" flex-direction="column">
+<p aling="center">
   <i>¡Conectémonos y charlemos! Encuéntrame en la web...</i>
   
    [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Córdoba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-cordoba/)](https://www.linkedin.com/in/gabriel-cordoba/) 
