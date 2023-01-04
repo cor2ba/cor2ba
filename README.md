@@ -45,12 +45,9 @@ const aboutMe = {
 <a href="https://api.whatsapp.com/send/?phone=5491125837761&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/729/PNG/512/whatsapp_icon-icons.com_62756.png" alt="WhatsApp" height="40" width="40" /></a>
 </p>
 
----
-
 <p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cor2ba&show_icons=true&locale=en&layout=compact" alt="cor2ba" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cor2ba&show_icons=true&locale=en" alt="cor2ba" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cor2ba&" alt="cor2ba" /></p>
 
----
