@@ -47,8 +47,6 @@ const aboutMe = {
 
 ---
 
-*Github Stats:*
-
 <p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cor2ba&show_icons=true&locale=en&layout=compact" alt="cor2ba" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cor2ba&show_icons=true&locale=en" alt="cor2ba" /></p>
