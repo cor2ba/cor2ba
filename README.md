@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cor2ba</h1>
 <h3 align="center">A Passionate Full Stack Developer From Argentina</h3>
 
+<h4 align="center">Visitor's :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{cor2ba}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
+
 <h3 align="left">I live in Argentina, Buenos Aires. I graduated of Full-Stack developer web in Henry Bootcamp. I´m autodidact, I think the most valuable thing is time and I don't like to waste it, what makes me proactive, I like team work and create a good work environment with colleagues. I am currently looking for a job, I would like a job where I can expand my programming knowledge and work from home.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cor2ba" alt="cor2ba" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cor2ba" alt="cor2ba" /></a> </p>
 
 <br>
 
@@ -34,12 +38,11 @@ const aboutMe = {
 
 *Github Stats:*
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cor2ba&count_private=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api?username=cor2ba&hide=stars&show_icons=true&theme=dracula&line_height=32">
+<p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cor2ba&show_icons=true&locale=en&layout=compact" alt="cor2ba" /></p>
 
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cor2ba&show_icons=true&locale=en" alt="cor2ba" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cor2ba&" alt="cor2ba" /></p>
 
 ---
 
@@ -57,9 +60,3 @@ const aboutMe = {
 <h4 align="center">Visitor's :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cor2ba}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
-
-<p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cor2ba&show_icons=true&locale=en&layout=compact" alt="cor2ba" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cor2ba&show_icons=true&locale=en" alt="cor2ba" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cor2ba&" alt="cor2ba" /></p>
