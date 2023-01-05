@@ -5,7 +5,11 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cor2ba}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
 
+---
+
 <h3 align="left">I live in Argentina, Buenos Aires. I graduated of Full-Stack developer web in Henry Bootcamp. I´m autodidact, I think the most valuable thing is time and I don't like to waste it, what makes me proactive, I like team work and create a good work environment with colleagues. I am currently looking for a job, I would like a job where I can expand my programming knowledge and work from home.</h3>
+
+---
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cor2ba" alt="cor2ba" /></a> </p>
 
@@ -30,10 +34,6 @@ const aboutMe = {
 };
 ```
 
-- 🌱 I’m currently learning **Typescript**
-
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, React Native, Sequelize**
-
 *Look at my CV:*
 <br>
 <a href="https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
@@ -45,9 +45,8 @@ const aboutMe = {
 <a href="https://api.whatsapp.com/send/?phone=5491125837761&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/729/PNG/512/whatsapp_icon-icons.com_62756.png" alt="WhatsApp" height="40" width="40" /></a>
 </p>
 
-<p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cor2ba&show_icons=true&locale=en&layout=compact" alt="cor2ba" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cor2ba&show_icons=true&locale=en" alt="cor2ba" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cor2ba&" alt="cor2ba" /></p>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cor2ba&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cor2ba&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=cor2ba&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
