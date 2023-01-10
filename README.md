@@ -34,6 +34,8 @@ const aboutMe = {
 };
 ```
 
+---
+
 <p align="center">
 *Look at my CV:*
 <br>
@@ -46,7 +48,3 @@ const aboutMe = {
 <a href="mailto:cordobagabrielignacio@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" alt="Email" height="40" width="40" /></a>
 <a href="https://api.whatsapp.com/send/?phone=5491125837761&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/729/PNG/512/whatsapp_icon-icons.com_62756.png" alt="WhatsApp" height="40" width="40" /></a>
 </p>
-
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cor2ba&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
