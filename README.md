@@ -30,10 +30,6 @@
 
 ---
 
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cor2ba&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -52,3 +48,5 @@ const aboutMe = {
    currentOccupation: ["Teaching Assistant", "Henry Student", "Front End Developer"],
 };
 ```
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cor2ba&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
