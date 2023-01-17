@@ -13,38 +13,142 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cor2ba" alt="cor2ba" /></a> </p>
 
-<br>
-
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS],
-   technologies: {
-      frontEnd: {
-         ts: ["React"],
-         js: ["React", "React Native", "Redux"],
-         css: ["Bootstrap", "Material UI", "React Native Paper, "React Native Element", "Native Base"]
-      },
-      backEnd: {
-         js: ["Node", "Express"]
-      },
-      databases: ["Sequelize", "PostgreSQL", "MongoDB", "Moongose"],
-   },
-   currentOccupation: ["Teaching Assistant", "Henry Student", "Front End Developer"],
-};
-```
-
 ---
 
-<p align="center">
-Look at my CV:
-<br>
-<a href="https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
+[![Instagram](https://img.shields.io/badge/GabrielCordoba-F97D00?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_gabrielcordoba/)&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/cor2ba-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=QNXIWxXqoPY&ab_channel=Cor2ba)&nbsp;&nbsp;&nbsp;
+[![Linkedin](https://img.shields.io/badge/GabrielCordoba-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cordoba/)&nbsp;&nbsp;
+[![Whatsapp](https://img.shields.io/badge/GabrielCordoba-%57EB3B.svg?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5491125837761&text&type=phone_number&app_absent=0)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/GabrielCordoba-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cordobagabrielignacio@gmail.com)&nbsp;&nbsp;
+[![Drive](https://img.shields.io/badge/curriculum-AD00FF?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view)&nbsp;&nbsp;
 
-<p align="center">
-Connect with me:
-<br>
-<a href="https://www.linkedin.com/in/gabriel-cordoba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="mailto:cordobagabrielignacio@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" alt="Email" height="40" width="40" /></a>
-<a href="https://api.whatsapp.com/send/?phone=5491125837761&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/729/PNG/512/whatsapp_icon-icons.com_62756.png" alt="WhatsApp" height="40" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" />
+      <br>Storybook
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
+      <br>ESlint
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+      <br>Prettier
+    </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" alt="Linkedin" />
+        <br>Linkedin
+       </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="GitHub" />
+      <br>NextJS
+    </td>
+    <td align="center"  width="96">
+       <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+       <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+     <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="65" height="65"                        alt="Postman"/>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="65" height="65" alt="StyledComponents" />
+      <br>StyledC
+    </td>
+  </tr>
+    <tr>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+        <br>Figma
+       </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
+        <br>NodeJS
+       </td>
+       <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="icon" width="65" height="65" />
+        <br>Native
+       </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+        <br>MongoDB
+       </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=discord" width="65" height="65" alt="Discord" />
+        <br>Discord
+       </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSC" />
+        <br>VSC
+       </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="MaterialUI" />
+        <br>MaterialUI
+       </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=heroku" width="65" height="65" alt="Heroku" />
+        <br>Heroku
+       </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
+        <br>Vercel
+       </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
+        <br>Netlify
+       </td>
+   </tr>
+</table>
