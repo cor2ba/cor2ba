@@ -63,92 +63,92 @@
       <br>GitHub
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" alt="Linkedin" />
-        <br>Linkedin
-       </td>
+       <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" alt="Linkedin" />
+       <br>Linkedin
+     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
-      <br>Git
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
+      <br>Native
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="GitHub" />
       <br>NextJS
     </td>
-    <td align="center"  width="96">
-       <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
-      <br>CSS
     </td>
     <td align="center"  width="96">
-       <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
-      <br>Tailwind
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="65" height="65"                        alt="Postman"/>
       <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
       <br>Express
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="65" height="65" alt="StyledComponents" />
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="65" height="65" alt="StyledComponents" />
       <br>StyledC
     </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+      <br>HTML
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <br>CSS
+    </td>
   </tr>
-    <tr>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
-        <br>Figma
-       </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
-        <br>NodeJS
-       </td>
-       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="icon" width="65" height="65" />
-        <br>Native
-       </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-        <br>MongoDB
-       </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=discord" width="65" height="65" alt="Discord" />
-        <br>Discord
-       </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSC" />
-        <br>VSC
-       </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="MaterialUI" />
-        <br>MaterialUI
-       </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=heroku" width="65" height="65" alt="Heroku" />
-        <br>Heroku
-       </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
-        <br>Vercel
-       </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
-        <br>Netlify
-       </td>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
+      <br>NodeJS
+    </td>
+    <td align="center" width="96"> 
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=discord" width="65" height="65" alt="Discord" />
+      <br>Discord
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSC" />
+      <br>VSC
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="MaterialUI" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=heroku" width="65" height="65" alt="Heroku" />
+      <br>Heroku
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
+      <br>Netlify
+    </td>
    </tr>
 </table>
