@@ -15,6 +15,7 @@
 
 ---
 
+[![Instagram](https://img.shields.io/badge/instagram-FA9700?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabrielcordoba/?hl=es-la)&nbsp;&nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=QNXIWxXqoPY&ab_channel=Cor2ba)&nbsp;&nbsp;&nbsp;
 [![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cordoba/)&nbsp;&nbsp;
 [![Whatsapp](https://img.shields.io/badge/whatsapp-%57EB3B.svg?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5491125837761&text&type=phone_number&app_absent=0)&nbsp;&nbsp;
