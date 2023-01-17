@@ -15,10 +15,10 @@
 
 ---
 
-[![YouTube](https://img.shields.io/badge/cor2ba-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=QNXIWxXqoPY&ab_channel=Cor2ba)&nbsp;&nbsp;&nbsp;
-[![Linkedin](https://img.shields.io/badge/GabrielCordoba-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cordoba/)&nbsp;&nbsp;
-[![Whatsapp](https://img.shields.io/badge/GabrielCordoba-%57EB3B.svg?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5491125837761&text&type=phone_number&app_absent=0)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/GabrielCordoba-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cordobagabrielignacio@gmail.com)&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=QNXIWxXqoPY&ab_channel=Cor2ba)&nbsp;&nbsp;&nbsp;
+[![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cordoba/)&nbsp;&nbsp;
+[![Whatsapp](https://img.shields.io/badge/whatsapp-%57EB3B.svg?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5491125837761&text&type=phone_number&app_absent=0)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/cordobagabrielignacio-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cordobagabrielignacio@gmail.com)&nbsp;&nbsp;
 [![Drive](https://img.shields.io/badge/curriculum-AD00FF?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view)&nbsp;&nbsp;
 
 <table>
