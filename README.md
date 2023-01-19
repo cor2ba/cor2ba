@@ -63,8 +63,8 @@
       <br>GitHub
     </td>
      <td align="center" width="75">
-       <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="Linkedin" />
-       <br>Linkedin
+       <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" height="50" alt="Linkedin" />
+       <br>Sass
      </td>
   </tr>
   <tr>
