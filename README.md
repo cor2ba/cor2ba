@@ -98,8 +98,8 @@
       <br>Express
     </td>
     <td align="center" width="75">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="50" height="50" alt="StyledComponents" />
-      <br>StyledC
+      <img src="https://skillicons.dev/icons?i=materialui" width="50" height="50" alt="MaterialUI" />
+      <br>MaterialUI
     </td>
     <td align="center"  width="75">
       <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
@@ -135,8 +135,8 @@
       <br>VSC
     </td>
     <td align="center" width="75">
-      <img src="https://skillicons.dev/icons?i=materialui" width="50" height="50" alt="MaterialUI" />
-      <br>MaterialUI
+      <img src="https://railway.app/brand/logo-dark.svg" width="50" height="50" alt="Heroku" />
+      <br>Railway
     </td>
     <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=heroku" width="50" height="50" alt="Heroku" />
