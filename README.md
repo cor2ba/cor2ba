@@ -135,10 +135,6 @@
       <br>VSC
     </td>
     <td align="center" width="75">
-      <img src="https://railway.app/brand/logo-dark.svg" width="50" height="50" alt="Heroku" />
-      <br>Railway
-    </td>
-    <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=heroku" width="50" height="50" alt="Heroku" />
       <br>Heroku
     </td>
@@ -149,6 +145,10 @@
     <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=netlify" width="50" height="50" alt="Netlify" />
       <br>Netlify
+    </td>
+    <td align="center" width="75">
+      <img src="https://railway.app/brand/logo-dark.svg" width="50" height="50" alt="Heroku" />
+      <br>Railway
     </td>
    </tr>
 </table>
