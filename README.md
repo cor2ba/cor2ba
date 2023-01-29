@@ -5,8 +5,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cor2ba}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
 
----
-
 <h3 align="center">I live in Argentina, Buenos Aires. I graduated of Full Stack developer web in Henry Bootcamp. I´m autodidact, I think the most valuable thing is time and I don't like to waste it, what makes me proactive, I like team work and create a good work environment with colleagues. I am currently looking for a job, I would like a job where I can expand my programming knowledge and work from home.</h3>
 
 ---
