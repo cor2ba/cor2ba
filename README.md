@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cor2ba</h1>
 <h3 align="center">A Passionate Full Stack Developer From Argentina</h3>
 
-<h4 align="center">Visitor's :eyes</h4>
+<h4 align="center">Visitor's :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cor2ba}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
 
