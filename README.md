@@ -5,15 +5,13 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cor2ba}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
 
-<h3 align="center">I live in Argentina, Buenos Aires. I graduated of Full Stack developer web in Henry Bootcamp. I´m autodidact, I think the most valuable thing is time and I don't like to waste it, what makes me proactive, I like team work and create a good work environment with colleagues. I am currently looking for a job, I would like a job where I can expand my programming knowledge and work from home.</h3>
+<h3 align="center">I live in Argentina, Buenos Aires. I am actually working for Ixaya. I think the most valuable thing is time and I don't like to waste it, what makes me proactive, I like team work and create a good work environment with colleagues..</h3>
 
 ---
 
-[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=QNXIWxXqoPY&ab_channel=Cor2ba)&nbsp;&nbsp;&nbsp;
 [![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cordoba/)&nbsp;&nbsp;
-[![Whatsapp](https://img.shields.io/badge/whatsapp-%57EB3B.svg?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5491125837761&text&type=phone_number&app_absent=0)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/cordobagabrielignacio-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cordobagabrielignacio@gmail.com)&nbsp;&nbsp;
-[![Drive](https://img.shields.io/badge/cv-AD00FF?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view)&nbsp;&nbsp;
+[![Drive](https://img.shields.io/badge/cv-AD00FF?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view](https://drive.google.com/file/d/1HCnUNCdjRwmRXlkzYsQQ88bnN33fkzvs/view))&nbsp;&nbsp;
 
 <table>
   <tr>
