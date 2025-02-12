@@ -11,7 +11,7 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cordoba/)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/cordobagabrielignacio-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cordobagabrielignacio@gmail.com)&nbsp;&nbsp;
-[![Drive](https://img.shields.io/badge/cv-AD00FF?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view](https://drive.google.com/file/d/1HCnUNCdjRwmRXlkzYsQQ88bnN33fkzvs/view))&nbsp;&nbsp;
+[![Drive](https://img.shields.io/badge/cv-AD00FF?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1ues0NTvacqKbJau7R8sLJJjqboS8w_zd/view]([https://drive.google.com/file/d/1HCnUNCdjRwmRXlkzYsQQ88bnN33fkzvs/view](https://drive.google.com/file/d/1HCnUNCdjRwmRXlkzYsQQ88bnN33fkzvs/view)))&nbsp;&nbsp;
 
 <table>
   <tr>
